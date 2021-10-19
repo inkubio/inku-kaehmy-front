@@ -37,7 +37,7 @@ export const GrabbingForm: React.SFC<RouteComponentProps> = ({ history }) => {
       refreshGrabbings();
       history.push('/kiltalaisille/hallinto/kahmyt/');
     } else {
-      alert('nyt kävi hassusti, laita TGssä viestiä @jonesus'); // eslint-disable-line
+      alert('nyt kävi hassusti, laita TGssä viestiä @oukki'); // eslint-disable-line
       console.log(resp);
     }
   };
