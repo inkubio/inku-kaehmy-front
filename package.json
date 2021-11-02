@@ -33,7 +33,7 @@
     "react-router-dom": "5.0.0",
     "resolve": "1.10.1",
     "source-map-loader": "0.2.4",
-    "tinymce": "^5.0.4",
+    "tinymce": "^5.10.0",
     "tslint": "5.16.0",
     "tslint-config-prettier": "1.18.0",
     "tslint-react": "4.0.0",
